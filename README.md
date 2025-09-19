@@ -29,6 +29,6 @@ Libraries: Scikit-learn, Pandas, NumPy, Matplotlib/Seaborn
 
 Modeling: Classification & Regression models (Random Forest, XGBoost, etc.)
 
-Frontend (Optional): React / HTML-CSS-JS for SafeShore web app
+Frontend : React / HTML-CSS-JS for SafeShore web app
 
-Backend (Optional): Flask / FastAPI for model integration
+Backend (: Flask / FastAPI for model integration
